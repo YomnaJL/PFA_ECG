@@ -83,7 +83,7 @@ class _ECGPageState extends State<ECGPage> {
         "${_ageController.text},$sexeValue,${_tailleController.text},${_poidsController.text}";
 
     // URL de base (à adapter à ton réseau)
-    final baseUrl = "http://192.168.1.18:5000";
+    final baseUrl = "http://0.0.0.0.:5000"; //remplacer avec ton adresse ip
 
     // --- Appel à l'API de prédiction ---
     final predictUri = Uri.parse("$baseUrl/predict");
