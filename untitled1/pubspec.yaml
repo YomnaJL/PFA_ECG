@@ -1,0 +1,41 @@
+name: CardioAI
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.7.2 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  fluttertoast: ^8.0.9
+  image_picker: ^1.1.2  # Ajoutez cette ligne pour inclure l'image_picker
+  shared_preferences: any  # Permet d'utiliser la dernière version compatible
+  http: ^0.13.5
+  csv: ^5.0.2
+  path_provider: ^2.1.1
+  pdf: ^3.10.4
+  printing: ^5.11.1
+  flutter_pdfview: ^1.0.0  # Or the latest version available
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: "^0.14.3"
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+
