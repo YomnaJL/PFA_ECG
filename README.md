@@ -81,7 +81,13 @@ L'API Flask vous permet d'effectuer des prédictions en temps réel en utilisant
 1. **Lancer l'API Flask** :
    ```bash
    python app.py
+```
+```
+
+2. **tester l'application** :
 
 
-
+|------------------------------|--------------------------------------|--------------------------------------|
+|    ![saisir les données de patient ](https://drive.google.com/uc?id=18SOjwZYRlt1Vmet3zX2Q5F4ubqKgbrLN)
+| ![Tu vas obtenir l'analyse d'ECG automatiquement  ](https://drive.google.com/uc?id=1R-DZjALsB7JF-IeGV-AmzyZ-ViOFoMgF)  |
 
