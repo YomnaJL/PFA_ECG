@@ -68,11 +68,12 @@ pip install numpy==1.23.2
 
 
 ## 🧪 Exemples de Prédictions
+## 🧪 Exemples de Prédictions
 
 | Modèle                        | Exemple 1                            | Exemple 2                            |
 |------------------------------|--------------------------------------|--------------------------------------|
-| **📏 Modèle de Prédiction (Mesures)**     | ![Mesure1](pred (1).png)    | ![Mesure2](pred (2).png)    |
-| **🩺 Modèle de Classification (Multi-label)**  | ![Classif1](exemple classif (1).png)  | ![Classif2](exemple classif (4).png)  |
+| **📏 Modèle de Prédiction (Mesures)**     | ![Mesure1](pred-1.png)    | ![Mesure2](pred-2.png)    |
+| **🩺 Modèle de Classification (Multi-label)**  | ![Classif1](exemple-classif-1.png)  | ![Classif2](exemple-classif-4.png)  |
 
 ## ⚙️ Utilisation de l'API Flask pour les Prédictions
 
