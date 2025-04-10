@@ -87,7 +87,7 @@ L'API Flask vous permet d'effectuer des prédictions en temps réel en utilisant
 2. **tester l'application** :
 
 
-| <![saisir les données] : img src="https://drive.google.com/uc?id=18SOjwZYRlt1Vmet3zX2Q5F4ubqKgbrLN" width="200"> | <img src="https://drive.google.com/uc?id=1R-DZjALsB7JF-IeGV-AmzyZ-ViOFoMgF" width="200"> |
+| <img src="https://drive.google.com/uc?id=18SOjwZYRlt1Vmet3zX2Q5F4ubqKgbrLN" width="200"> | <img src="https://drive.google.com/uc?id=1R-DZjALsB7JF-IeGV-AmzyZ-ViOFoMgF" width="200"> |
 
 
 
