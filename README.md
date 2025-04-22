@@ -68,7 +68,6 @@ pip install numpy==1.23.2
 
 
 ## 🧪 Exemples de Prédictions
-## 🧪 Exemples de Prédictions
 
 | Modèle                        | Exemple 1                            | Exemple 2                            |
 |------------------------------|--------------------------------------|--------------------------------------|
@@ -80,9 +79,8 @@ pip install numpy==1.23.2
 L'API Flask vous permet d'effectuer des prédictions en temps réel en utilisant les modèles de deep learning. Voici un exemple d'utilisation de l'API Flask pour envoyer une image et obtenir la prédiction :
 
 1. **Lancer l'API Flask** :
-   ```bash
+```bash
    python app.py
-```
 ```
 
 2. **tester l'application** :
