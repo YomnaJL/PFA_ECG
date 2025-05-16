@@ -2,7 +2,7 @@
 
 Ce projet a pour objectif de développer un système intelligent permettant l'analyse et le diagnostic des électrocardiogrammes (ECG). Une application mobile réalisée en Flutter intègre deux modèles de deep learning complémentaires :
 
-- **Modèle de prédiction** : Estime les mesures cliniques d’un ECG (amplitude et durée des pics R, T, intervalles PR, QT, etc.) à partir d’une image ECG et de données patient.
+- **Modèle de Régression** : Estime les mesures cliniques d’un ECG (amplitude et durée des pics R, T, intervalles PR, QT, etc.) à partir d’une image ECG et de données patient.
 - **Modèle de classification multi-label** : Classifie les ECG en 5 catégories de maladies cardiaques.
 
 ## 📱 Description du Projet
@@ -67,7 +67,7 @@ pip install numpy==1.23.2
 ---
 
 
-## 🧪 Exemples de Prédictions
+## 🧪 Exemples de Régression
 
 | Modèle                        | Exemple 1                            | Exemple 2                            |
 |------------------------------|--------------------------------------|--------------------------------------|
